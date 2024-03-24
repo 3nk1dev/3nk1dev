@@ -14,4 +14,5 @@
 Entrepreneurial Security Researcher affiliated with SANS, DefCon, BlackHat, Popular CTF Platforms, and Trace Labs. Highly experienced at red teaming, social engineering, threat modeling, threat hunting, penetration testing, and digital forensics in the insurance sector. 
 
 [Resume](https://github.com/3nk1dev/Resume)
+
 [Trusted Cyber Partners In Practice](https://www.trustedcyberpartners.com)
