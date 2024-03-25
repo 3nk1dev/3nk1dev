@@ -1,6 +1,6 @@
 # 3NK1DEV
 ## David Taxer
-### InfoSec|Pentest|SEO|Purple
+### USA|InfoSec|Pentest|SEO|Purple
 #### https://www.linkedin.com/davidtaxer
 ##### 3nk1dev@protonmail.com
 ```                                          
