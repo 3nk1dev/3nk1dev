@@ -74,8 +74,6 @@ Don’t wait until it’s too late—take action today to secure your business f
 
 **David Taxer**  
 Owner & Founder, Texas Cyber Solutions  
-[texascybersolutions.com](https://texascybersolutions.com)
-
 
 [Resume](https://github.com/3nk1dev/Resume)
 
