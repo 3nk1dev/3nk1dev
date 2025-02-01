@@ -15,4 +15,4 @@ Entrepreneurial Security Researcher affiliated with SANS, DefCon, BlackHat, Popu
 
 [Resume](https://github.com/3nk1dev/Resume)
 
-[Trusted Cyber Partners In Practice](https://www.trustedcyberpartners.com)
+[Texas Cyber Solutions](https://www.texascybersolutions.com)
