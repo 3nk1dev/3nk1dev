@@ -1,15 +1,20 @@
-# 3NK1DEV
-## David Taxer
-### InfoSec|Pentest|SEO|Purple
-#### https://www.linkedin.com/davidtaxer
-```                                          
-   _____ _   _ _  ___ ____  _______     __
-  |___ /| \ | | |/ / |  _ \| ____\ \   / /
-    |_ \|  \| | ' /| | | | |  _|  \ \ / / 
-   ___) | |\  | . \| | |_| | |___  \ V /  
-  |____/|_| \_|_|\_\_|____/|_____|  \_/   
-```                                       
-Entrepreneurial Security Researcher affiliated with SANS, DefCon, BlackHat, Popular CTF Platforms, and Trace Labs. Highly experienced at red teaming, social engineering, threat modeling, threat hunting, penetration testing, and digital forensics.
+# David Taxer | 3nk1dev
+
+Founder of Texas Cyber Solutions. My work spans cybersecurity, OSINT, and SEO.
+
+## Featured guide
+
+[Beyond the Second Brain: Cross-LLM Knowledge & Memory](https://github.com/3nk1dev/beyond-the-second-brain)
+
+A public, work-in-progress guide to keeping reviewed knowledge and useful context portable across AI models using Markdown, source records, and bounded handoffs. The personal vault stays private.
+
+Start with the [guide](https://github.com/3nk1dev/beyond-the-second-brain/blob/main/GUIDE.md) and its teaching templates. This is a documented approach, not an installable app or a service that synchronizes providers' built-in memories.
+
+## Cybersecurity
+
+My focus includes penetration testing, threat modeling, security research, digital forensics, and OSINT.
+
+[Texas Cyber Solutions](https://www.texascybersolutions.com) | [LinkedIn](https://www.linkedin.com/in/davidtaxer)
 
 # Welcome to Texas Cyber Solutions
 
