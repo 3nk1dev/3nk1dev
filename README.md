@@ -19,6 +19,7 @@ This is a documented approach, not an installable app or a service that synchron
 My security work includes understanding attack paths, testing assumptions, and turning findings into practical next steps.
 
 - [Threat Modeling Deconstructed](https://learn.eccouncil.org/course/threat-modeling-deconstructed): my threat modeling course.
+- [Penetration Testing Services](https://www.texascybersolutions.com/penetration-testing-houston/): security testing through Texas Cyber Solutions.
 
 ## Writing
 
