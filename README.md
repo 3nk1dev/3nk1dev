@@ -66,7 +66,7 @@ Penetration testing is a critical aspect of any business’s cybersecurity strat
 - **Black-box Testing**: Testers have no prior knowledge of the system, simulating an external attack where the attacker has no insider information.
 - **Gray-box Testing**: A hybrid approach where testers are given partial knowledge of the system, simulating an attack from an insider or someone with partial access.
 
-Each approach has its strengths and is tailored to uncover different types of vulnerabilities. For more details, visit our [Guide to Types of Penetration Testing](https://www.texascybersolutions.com/guide-to-types-of-penetration-testing/).
+Each approach has its strengths and is tailored to uncover different types of vulnerabilities. For more details, visit our [Guide to Types of Penetration Testing](https://www.texascybersolutions.com/penetration-testing/2026-penetration-testing-guide/).
 
 ## Let's Work Together
 
