@@ -16,10 +16,9 @@ This is a documented approach, not an installable app or a service that synchron
 
 ## Cybersecurity and teaching
 
-My security work includes understanding attack paths, testing assumptions, and turning findings into practical next steps. These resources cover two parts of that work:
+My security work includes understanding attack paths, testing assumptions, and turning findings into practical next steps.
 
 - [Threat Modeling Deconstructed](https://learn.eccouncil.org/course/threat-modeling-deconstructed): my threat modeling course.
-- [2026 Penetration Testing Guide](https://www.texascybersolutions.com/penetration-testing/2026-penetration-testing-guide/): a guide to penetration testing approaches and considerations.
 
 ## Writing
 
